@@ -4,7 +4,7 @@ import org.junit.Test;
 public class MyTest {
     @Test
     public void test_method_1() {
-        Demo d = new Demo();
+        Demo d = new Demo();wwwwwwww
         d.DoSomething(true);
     }
 
