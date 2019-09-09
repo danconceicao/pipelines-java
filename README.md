@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/irbre/Claims%20Handling/_apis/build/status/danconceicao.pipelines-java?branchName=master)](https://dev.azure.com/irbre/Claims%20Handling/_build/latest?definitionId=3&branchName=master)
+
 
 # Contributing
 
